@@ -4,6 +4,8 @@
 ![Swift 5.3](https://img.shields.io/badge/swift-5.3-orange)
 ![MIT License](https://img.shields.io/badge/license-MIT-lightgrey)
 
+Forked from https://github.com/WeatherProvider/NationalWeatherService-Swift by Jn3xxx/Advalas. I will be modifying and updating it as often as I can during the production of my weather application
+
 A Swift wrapper for the National Weather Service's weather.gov free-to-use public API.
 
 
