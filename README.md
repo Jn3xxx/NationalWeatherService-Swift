@@ -29,7 +29,8 @@ A Swift wrapper for the National Weather Service's weather.gov free-to-use publi
 ## Installation
 Swift Package Manager: 
 ```
-https://github.com/WeatherProvider/NationalWeatherService-Swift.git
+Original - https://github.com/WeatherProvider/NationalWeatherService-Swift.git
+Advalas Version - https://github.com/Jn3xxx/NationalWeatherService-Swift.git
 ```
 
 At this time, I recommend you use `exactVersion` or `commit`. This library is still under active development and is subject to major changes at any time. I try to minimize API changes between minor versions, but this is a just-in-case.
